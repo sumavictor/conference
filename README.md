@@ -2,7 +2,9 @@
 
 
 The chronicle of the University of Management and Technology (UNIMTECH) has been a remark-able set of milestones. It was founded as a small, mediocre computer training institute, and now it has been transformed into a competitive and successful tertiary educational institution. 
+
 ![Cover Art](./images/banner.jpg)
+
 > ## Built With
 
 - HTML & CSS
